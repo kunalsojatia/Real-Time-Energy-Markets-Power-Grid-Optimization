@@ -1,0 +1,2 @@
+# Real-Time-Energy-Markets-Power-Grid-Optimization
+Economic dispatch problem is concerned with finding how much power each unit should generate for a given demand, while minimizing the total operational costs.  The objective function is to minimize the sum product of per unit cost and generation amounts to the lowest possible values. Hence in the optimal solution we need to arrive at the lowest possible values for unit cost (g)and generation amounts (g).
